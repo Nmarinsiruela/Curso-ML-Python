@@ -1,2 +1,9 @@
-# Curso-ML-DS
-This is a spanish repository to provide a brief summary of what I've learned in a course about Machine Learning and Neural Networks, from 13-11-18 to 21-12-18.
+# Introducción a Machine Learning con Python
+
+La intención de este proyecto es ejemplificar e ilustrar algunos conceptos básicos de Machine Learning, mediante el uso de código Python y convenientes explicaciones o imágenes ilustrativas. El código base de este proyecto se ha elaborado en base a un curso ofrecido por la Escuela de Organización Industrial, y llevado a cabo por [DotCSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
+
+*Índice*
+
+* Introducción a las herramientas.
+* Regresión Lineal Simple y Múltiple - Sklearn.
+* WIP
